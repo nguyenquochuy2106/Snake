@@ -4,9 +4,9 @@
 
 | STT | Họ tên             | MSSV       | Phần thực hiện                       |
 |-----|------------------|-----------|------------------------------------|
-| 1   | Nguyễn Quốc Huy   | 22730075  | Trưởng nhóm, xây dựng `game_class.py`, menu, game loop, score, game over |
-| 2   | [Tên SV2]         | [MSSV2]   | `snake_class.py`, xử lý di chuyển Snake, collision |
-| 3   | [Tên SV3]         | [MSSV3]   | `food_class.py`, spawn food, update food vị trí, draw |
+| 1   | Nguyễn Quốc Huy       | 22730075  | Trưởng nhóm, xây dựng `game_class.py`, menu, game loop, score, game over |
+| 2   | [Tên SV2]             | [MSSV2]   | `snake_class.py`, xử lý di chuyển Snake, collision |
+| 3   | Đồng Nguyễn Vũ Anh    | 25730007   | `food_class.py`, spawn food, update food vị trí, draw |
 
 ---
 
